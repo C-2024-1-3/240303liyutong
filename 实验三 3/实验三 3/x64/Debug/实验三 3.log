@@ -1,0 +1,5 @@
+﻿  3.cpp
+D:\实验11.28\实验三 3\实验三 3\3.cpp(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+3.obj : error LNK2019: 无法解析的外部符号 "double __cdecl cel_to_fah(double)" (?cel_to_fah@@YANN@Z)，函数 main 中引用了该符号
+3.obj : error LNK2019: 无法解析的外部符号 "double __cdecl fah_to_cel(double)" (?fah_to_cel@@YANN@Z)，函数 main 中引用了该符号
+D:\实验11.28\实验三 3\x64\Debug\实验三 3.exe : fatal error LNK1120: 2 个无法解析的外部命令
